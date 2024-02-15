@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-Esse projeto foi realizado com base no projeto disponivel no Frontend Mentor, do qual pude colocar em prática os meus conhecimentos técnicos e aprendido novas caracteristicas das linguagens usadas.
+Esse projeto foi realizado com base no projeto disponível no Frontend Mentor, do qual pude colocar em prática os meus conhecimentos técnicos e aprendido novas características das linguagens usadas.
  
 
 ## 📝 Licença
